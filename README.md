@@ -7,4 +7,4 @@ Project 2:
 Artificial Language translation
 
 Project 3:
-Artificial Language next word prediction -- Next Word Prediction in Artificial Language using TensorFlow (Natural Language Processing
+Artificial Language next word prediction -- Next Word Prediction in Artificial Language using TensorFlow (Natural Language Processing)
